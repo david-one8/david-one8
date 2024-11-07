@@ -52,3 +52,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=david-one8&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="david-one8" /></p>
 
+### 💬 Let's Collaborate!
+I’m always open to collaborating on exciting projects, whether it's building something from scratch or contributing to open-source projects.
+
+> "Code is like humor. When you have to explain it, it’s bad." — *Cory House*
