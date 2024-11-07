@@ -3,6 +3,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!!!+👋;+I'm+David+Fule;" />
 </h1>
 <h3 align="center">🚀 Front-End Developer | UI/UX Enthusiast from INDIA ❤️</h3>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/JoshuaThadi/JoshuaThadi/main/transparent_gitgif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=david-one8&label=Profile%20views&color=0e75b6&style=flat" alt="david-one8" /> </p>
@@ -54,5 +56,5 @@
 
 ### 💬 Let's Collaborate!
 I’m always open to collaborating on exciting projects, whether it's building something from scratch or contributing to open-source projects.
-
 > "Code is like humor. When you have to explain it, it’s bad." — *Cory House*
+> <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
