@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Advanced JavaScript and Reactjs**
 
-- 💬 Ask me about **Frontend Development and UI/UX**
+- 💬 Ask me about **Frontend Development and UI/UX  [click](https://github.com/david-one8/david-one8/issues)**
 
 - 📫 How reach out to me **(+91) 7869524223 or davidfule18@gmail.com**
 
