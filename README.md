@@ -39,7 +39,7 @@
 </div>
 
 <div align="left">
-  <h2>🐛 *Ha Ha Ha* 🐛</h2>
+  <h2>🐛 Anim@ti0n 🐛</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
@@ -48,11 +48,12 @@
 
 <h3 align="left">David's Github Activity Graph:</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=david-one8&show_icons=true&locale=en&theme=tokyonight" alt="david-0ne8" /></p>
+<img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=david-one8&theme=radical" alt="Profile Summary">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=david-one8&&theme=tokyonight" alt="david-0ne8" /></p>
+<img align="left" width="400em" src="https://github-readme-stats.vercel.app/api?username=david-one8&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=david-one8&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="david-one8" /></p>
+<img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=david-one8&theme=radical" alt="Streak Stats"/>
+
 
 ### 💬 Let's Collaborate!
 I’m always open to collaborating on exciting projects, whether it's building something from scratch or contributing to open-source projects.
