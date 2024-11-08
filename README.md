@@ -2,6 +2,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!!!+👋;+I'm+David+Fule;" />
 </h1>
+
 <h3 align="center">🚀 Front-End Developer | UI/UX Enthusiast from INDIA ❤️</h3>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -17,21 +18,21 @@
 
 - 📫 How reach out to me **(+91) 7869524223 or davidfule18@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/davidfule18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="davidfule18" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/davidfule" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davidfule" height="30" width="40" /></a>
 <a href="https://instagram.com/l.david_97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="l.david_97" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=react,html,css,javascript,tailwind" />
     <img src="https://skillicons.dev/icons?i=python,mongodb,postman,gcp,git" />
     <img src="https://skillicons.dev/icons?i=vscode,matlab,visualstudio,figma,blender,ubuntu,linux" />
 </div>
 
-<h3 align="left">GSSOC(24) Badges 🪶</h3>
+<h2 align="left">GSSOC(24Ext.) Badges 🪶</h2>
 <div style='display:flex; align-items:center; gap: 10px;' align='left'>
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
@@ -39,13 +40,12 @@
 
 <div align="left">
   <h2>🐛 Anim@ti0n 🐛</h2>
-  <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  
 </div>
 
-<h3 align="left">David's Github Activity Graph:</h3>
+<h2 align="left">David's Github Activity Graph:</h2>
 
 <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=david-one8&theme=radical" alt="Profile Summary">
 
