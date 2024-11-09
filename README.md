@@ -32,11 +32,17 @@
     <img src="https://skillicons.dev/icons?i=vscode,matlab,visualstudio,figma,blender,ubuntu,linux" />
 </div>
 
-<h2 align="left">GSSOC(24Ext.) Badges 🪶</h2>
-<div style='display:flex; align-items:center; gap: 10px;' align='left'>
+	
+ <h2 align="left">GSSOC(24Extd.) Badges 🪶</h2>   
+<div style='display:flex; align-items:center; gap: 10px;' align='left'><a href="https://gssoc.girlscript.tech/leaderboard?2024Extd=<YEAR_BADGES>&david-one8=<GITHUB_USENAME>">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
 </div>
+
 
 <div align="left">
   <h2>🐛 Anim@ti0n 🐛</h2>
