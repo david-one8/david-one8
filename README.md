@@ -28,7 +28,7 @@
 <h2 align="left">Languages and Tools:</h2>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=react,html,css,javascript,tailwind" />
-    <img src="https://skillicons.dev/icons?i=python,mongodb,postman,gcp,git" />
+    <img src="https://skillicons.dev/icons?i=python,mongodb,postman,git" />
     <img src="https://skillicons.dev/icons?i=vscode,matlab,visualstudio,figma,blender,ubuntu,linux" />
 </div>
 
