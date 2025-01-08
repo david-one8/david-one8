@@ -44,20 +44,20 @@
 </div>
 
 
-<div align="left">
-  <h2>🐛 Anim@ti0n 🐛</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  
-</div>
+
 
 <h2 align="left">David's Github Activity Graph:</h2>
 
-<img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=david-one8&theme=radical" alt="Profile Summary">
+<img height=200 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=david-one8&theme=radical" alt="Profile Summary">
 
-<img align="left" width="400em" src="https://github-readme-stats.vercel.app/api?username=david-one8&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/>
+<img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=david-one8&theme=radical" alt="Streak Stats"/>
 
-<img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=david-one8&theme=radical" alt="Streak Stats"/>
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=david-one8&show_icons=true&theme=radical&rank_icon=github&border_radius=10&hide_border=true" />
+
+<img width="420em" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=david-one8&theme=radical" />
+
+<img width="420em" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=david-one8&theme=radical" />
+
 
 
 ### 💬 Let's Collaborate!
