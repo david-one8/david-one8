@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/davidfule18" target="blank"><img src="https://img.shields.io/twitter/follow/davidfule18?logo=twitter&style=for-the-badge" alt="davidfule18" /></a> </p>
 
-- 🌱 I’m currently learning **Advanced JavaScript and Reactjs**
+- 🌱 I’m currently learning **Backend**
 
 - 💬 Ask me about **Frontend Development and UI/UX  [click](https://github.com/david-one8/david-one8/issues)**
 
