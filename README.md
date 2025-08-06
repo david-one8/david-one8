@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 💬 Ask me about **Frontend Development and UI/UX  [click](https://github.com/david-one8/david-one8/issues)**
+- 💬 Ask me about **Frontend Development and AI  [click](https://github.com/david-one8/david-one8/issues)**
 
 - 📫 How reach out to me **davidfule18@gmail.com**
 
