@@ -3,7 +3,7 @@
    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=2ED573&center=true&vCenter=true&width=550&lines=Hi+There!!!+👋;+I'm+David+Fule;+Welcome+to+my+Profile!" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🚀 Front-End Developer | AI Enthusiast from INDIA ❤️</h3>
+<h3 align="center">🚀 MERN Developer | AI Enthusiast from INDIA ❤️</h3>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/JoshuaThadi/JoshuaThadi/main/transparent_gitgif.gif">
@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 💬 Ask me about **Frontend Development and AI  [click](https://github.com/david-one8/david-one8/issues)**
+- 💬 Ask me about **MERN Development and AI  [click](https://github.com/david-one8/david-one8/issues)**
 
 - 📫 How reach out to me **davidfule18@gmail.com**
 
