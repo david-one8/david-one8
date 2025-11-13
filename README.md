@@ -28,9 +28,9 @@
 
 <h2 align="left">Languages and Tools:</h2>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=react,html,css,javascript,tailwind" />
-    <img src="https://skillicons.dev/icons?i=python,mongodb,postman,git" />
-    <img src="https://skillicons.dev/icons?i=vscode,matlab,figma,blender" />
+    <img src="https://skillicons.dev/icons?i=react.js,html5,css3,javascript,next.js,tailwind,typescript" />
+    <img src="https://skillicons.dev/icons?i=scss,python,mongodb,postman,git" />
+    <img src="https://skillicons.dev/icons?i=vscode,matlab,figma,blender,aws" />
 </div>
 
 	
