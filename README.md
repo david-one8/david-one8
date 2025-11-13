@@ -28,11 +28,7 @@
 
 <h2 align="left">Languages and Tools:</h2>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=react,html,css,javascript,next,tailwind,typescript,c,cpp,npm" />
-    <img src="https://skillicons.dev/icons?i=scss,vue,python,nodejs,express,bash,mongodb,postman,git" />
-    <img src="https://skillicons.dev/icons?i=vscode,matlab,figma,blender,aws,vercel,vite,gcp,devto,discord,firebase" />
-	<img src="https://skillicons.dev/icons?i=supabase,github,gitlab,htmx,ai,linux,md,materialui,netlify" />
-	<img src="https://skillicons.dev/icons?i=windows,postgres,powershell,redhat,redis,redux,svg,threejs,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=react,html,css,javascript,next,tailwind,typescript,c,cpp,npm,scss,vue,python,nodejs,express,bash,mongodb,postman,git,vscode,matlab,figma,blender,aws,vercel,vite,gcp,devto,discord,firebase,supabase,github,gitlab,htmx,ai,linux,md,materialui,netlify,windows,postgres,powershell,redhat,redis,redux,svg,threejs,ubuntu" />
 </div>
 
 	
