@@ -28,7 +28,7 @@
 
 <h2 align="left">Languages and Tools:</h2>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=react,html5,css3,javascript,next,tailwind,typescript" />
+    <img src="https://skillicons.dev/icons?i=react,html,css,javascript,next,tailwind,typescript" />
     <img src="https://skillicons.dev/icons?i=scss,python,mongodb,postman,git" />
     <img src="https://skillicons.dev/icons?i=vscode,matlab,figma,blender,aws" />
 </div>
