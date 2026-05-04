@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/davidfule18" target="blank"><img src="https://img.shields.io/twitter/follow/davidfule18?logo=twitter&style=for-the-badge" alt="davidfule18" /></a> </p>
 
-- 🌱 I’m currently solving **DSA**
+- 🌱 I’m currently learning **System Design**
 
 - 💬 Ask me about **MERN Development and AI  [click](https://github.com/david-one8/david-one8/issues)**
 
@@ -59,4 +59,8 @@
 ### 💬 Let's Collaborate!
 I’m always open to collaborating on exciting projects, whether it's building something from scratch or contributing to open-source projects.
 > "Code is like humor. When you have to explain it, it’s bad." — *Cory House*
-> <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<!-- Activity Graph — NEW -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=david-one8&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+</p>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
