@@ -48,7 +48,7 @@
 
 <img height=200 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=david-one8&theme=radical" alt="Profile Summary">
 
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=david-one8&show_icons=true&theme=radical&rank_icon=github&border_radius=10&hide_border=true" />
+<img height=200 align="center" src="https://streak-stats.demolab.com?user=david-one8&theme=radical&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 
 <img width="420em" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=david-one8&theme=radical" />
 
