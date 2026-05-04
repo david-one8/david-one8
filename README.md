@@ -50,11 +50,6 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
 </div>
 
-<h2 align="left">GitHub Contibution</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/david-one8/david-one8/output/github-contribution-grid-snake.svg" />
-</p>
-
 <h2 align="left">David's Github Activity Graph:</h2>
 
 <img height=200 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=david-one8&theme=radical" alt="Profile Summary">
