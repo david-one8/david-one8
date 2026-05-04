@@ -1,4 +1,6 @@
-![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2ED573&height=180&section=header" />
+</p>
 <h1 align="center">
    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=2ED573&center=true&vCenter=true&width=550&lines=Hi+There!!!+👋;+I'm+David+Fule;+Welcome+to+my+Profile!" alt="Typing SVG" />
 </h1>
