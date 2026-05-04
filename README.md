@@ -20,11 +20,7 @@
 
 
 <h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://twitter.com/davidfule18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="davidfule18" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/davidfule" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davidfule" height="30" width="40" /></a>
-<a href="https://instagram.com/l.david_97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="l.david_97" height="30" width="40" /></a>
-</p>
+<p align="left"><a href="https://twitter.com/davidfule18" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="davidfule18" height="40" width="50" /></a>&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/davidfule" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davidfule" height="40" width="50" /></a>&nbsp;&nbsp;&nbsp;<a href="https://instagram.com/l.david_97" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="l.david_97" height="40" width="50" /></a></p>
 
 <h2 align="left">Languages and Tools:</h2>
 <div align="left">
